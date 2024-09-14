@@ -227,12 +227,6 @@
     text-decoration: underline;
   }
 
-  @media (max-width: 768px) {
-    .footer h1 {
-      font-size: 1.25rem;
-    }
-  }
-
 
 @media (max-width: 768px) {
     .mainTtl {
@@ -258,6 +252,10 @@
 
     .ttlBtn{
         margin: auto;
+    }
+
+    .footer h1 {
+      font-size: 1.25rem;
     }
 
 }
