@@ -9,7 +9,7 @@
 }
 
 .logo {
-    max-width: 130px;  /* Adjust the size as needed */
+    max-width: 130px; 
 }
 
 .navbar-toggler {
@@ -203,7 +203,7 @@
   }
 
   .footer ul {
-    list-style: none; /* Removing default bullets */
+    list-style: none; 
     padding: 0;
   }
 
